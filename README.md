@@ -1,2 +1,2 @@
 # To-Do-List-Web-App-in-Django
-My first repository Web App made in Django
+Hi there!! I am Aman Kaushik and I am 13 years old! I have been learning programming in c++, c# (For Unity), Java and python for 2 months now so I decided to make my first ever repository. This is a To-Do-List web app that runs in your browser. To run the web app (you should have django installed on your device) run it using the command "python manage.py runserver" in your command prompt or visit the web app at http://to-do-list-app13.herokuapp.com/ and use it for free.
