@@ -26,7 +26,7 @@ SECRET_KEY = '%jo796#f#^c)e#mkegs78kf(a$48ci49veohnhd6ag0_8w!wx-'
 DEBUG = False
 ALLOWED_HOSTS = ['to-do-list-appone.herokuapp.com','127.0.0.1']
 STATIC_ROOT = os.path.join(BASE_DIR, 'static')
-
+TEMPLATE_DIR = os.path.join(BASE_DIR, 'templates')
 # Application definition
 # this is the settings file for the project
 
